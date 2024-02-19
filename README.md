@@ -27,7 +27,7 @@ This project is a comprehensive solution for predicting sports ball types using 
    git clone https://github.com/Mr-Vicky-01/sports-ball-prediction-end-to-end.git
    cd sports-ball-prediction-end-to-end
 
-## ScreenShots
+## ScreenShot
 
 ![image](https://github.com/Mr-Vicky-01/Deplyment-Deep-learining/assets/143078285/bc208cd9-82af-4274-ad36-ce94c0563297)
 
